@@ -1,4 +1,4 @@
-# DarkSoul 2 Trophy Complete
+# DarkSoul 2 NPCs
 
 ## ミラのルカティエル
 
