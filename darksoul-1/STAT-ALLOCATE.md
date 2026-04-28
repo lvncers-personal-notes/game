@@ -16,7 +16,7 @@ https://seesaawiki.jp/project_dark/d/%C7%BD%CE%CF%C3%CD#content_6
 
 | ステータス | レベル | カンスト余地 |
 | - | - | - |
-| SL | 265 | |
+| SL | 255 | |
 | 体力　	| 60 | ↑ |
 | 記憶力	| 50 | |
 | 持久力	| 40 | ↑|
@@ -24,7 +24,7 @@ https://seesaawiki.jp/project_dark/d/%C7%BD%CE%CF%C3%CD#content_6
 | 技量　	| 45 | |
 | 耐久力	| 11 | |
 | 理力　	| 50 | |
-| 信仰　	| 50 | |
+| 信仰　	| 40 | |
 
 ## 記憶力
 
